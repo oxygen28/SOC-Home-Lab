@@ -14,10 +14,15 @@ The SOC Home Lab project aimed to establish a controlled environment for simulat
 - LimaCharlie EDR for observing endpoint telemetry data and creating custom detection and response rules tailored to specific threat scenarios.
 ## Steps
 [1. Setting up the environment](1.%20Setting%20up%20the%20environment.md)
+
 [2. Generate and observe telemetry](2.%20Generate%20and%20observe%20telemetry.md)
+
 [3. Craft detection rule](3.%20Craft%20detection%20rule.md)
+
 [4. Apply response to the detection](4.%20Apply%20response%20to%20the%20detection.md)
+
 [5. Tuning false positive](5.%20Tuning%20false%20positive.md)
+
 [6. Scanning files with YARA rules](6.%20Scanning%20files%20with%20YARA%20rules.md)
 
 ---
